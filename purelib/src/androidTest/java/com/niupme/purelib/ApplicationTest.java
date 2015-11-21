@@ -1,4 +1,4 @@
-package com.niupme.photo.purephoto;
+package com.niupme.purelib;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,8 +1,15 @@
 <resources>
-    <string name="app_name">PurePhoto</string>
+    <string name="app_name">Pure</string>
+    <string name="my_name">靓仔龙</string>
+    <string name="my_email">liulongeric@gmail.com</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+    <string name="action_path">图片库路径</string>
+    <string name="nav_setting">设置</string>
+    <string name="nav_manger">管理相册</string>
+    <string name="nav_map">地图</string>
+    <string name="nav_photo">我的图片库</string>
 </resources>
